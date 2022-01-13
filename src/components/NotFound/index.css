@@ -1,0 +1,12 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70 vh;
+  margin: 20 px;
+}
+.not-found-img {
+  width: 400 px;
+  height: 200 px;
+}
